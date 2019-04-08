@@ -1,9 +1,3 @@
 # html-starter
-A starter package for basic HTML projects
-
-```sh
-cd /var/www
-git clone https://github.com/stack-x/html-starter.git PROJECT-NAME
-cd PROJECT-NAME
-rm -fR .git
+page that triggers an alert dialog that reads Hello World. 
 ```
